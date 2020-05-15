@@ -14,7 +14,7 @@ think about how you think. Learn how you learn.
 - Banyak minum, jangan sampai kita dehidrasi apa lagi depresi karena code
 - listen to your brain
 - Rasakan sesuatu, jadikan sesuatu yang dipelajari menjadi hal yang menarik untuk di telaah lebih dalam
-- Terakhirr !!! Write a lot of code. Yeah
+- Terakhirr !!! Write a lot of code. Yeahg
 
 ### How to use this repo
 - Read per folder chapter, after that take 15 minutes for review what we create so far
