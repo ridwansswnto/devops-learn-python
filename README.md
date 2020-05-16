@@ -17,5 +17,9 @@ think about how you think. Learn how you learn.
 - Terakhirr !!! Write a lot of code. Yeahg
 
 ### How to use this repo
+
+Untuk Pemanasan dapat membaca `learn-the-hardway` terlebih dahulu
 - Read per folder chapter, after that take 15 minutes for review what we create so far
 - Give your brain a rest with take a break, it will help you learn faster with less frustration
+
+Selanjutnya untuk berlatih dan baking dapat membaca `learn-the-concept` dimana akan belajar berbagai macam konsep seperti list, dictionaries, oop menggunakan python
