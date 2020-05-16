@@ -23,4 +23,7 @@ print(fname, tname, lname)
 # Get character
 huruf = "abcdefghijklmnopqrstuvwxyz"
 print('{} {} {} {} {} {}'.format(huruf[17], huruf[8], huruf[3], huruf[22], huruf[0], huruf[13]))
-# print(huruf[17][8][3][22][0][13])
+
+name = "Ridwan"
+replace = name.replace('d', 'f')
+print(replace)
