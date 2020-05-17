@@ -10,6 +10,7 @@ else:
     print("I've never heard of the color", color)
 
 print("=" * 8)
+
 # it is true?
 some_list = []
 if some_list:
@@ -18,9 +19,27 @@ else:
     print("Heyy!, it's empty!!")
 
 print("=" * 8)
+
 # it is true?
 some_list = [""]
 if some_list:
     print("There's something in here.")
 else:
     print("Heyy!, it's empty!!")
+
+print("=" * 8)
+
+# multiple comparisons
+letter = str(input("masukan huruf: "))
+if letter == 'a' or letter =='e' or letter == 'i' \
+    or letter == 'o' or letter == 'u':
+    print(letter, 'is a vowel')
+else:
+    print(letter, 'it not a vowel')
+
+print("=" * 8)
+
+vowel_set = {'a', 'e', 'i', 'o', 'u'}
+letter = str(input("masukkan huruf: "))
+display = letter in vowel_set
+print(display)
