@@ -19,3 +19,4 @@ print(name_tuple)
 
 #Accessing element in tuple
 print(name_list[0])
+print(name_list[0], name_list[1])
