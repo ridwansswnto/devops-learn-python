@@ -10,3 +10,11 @@ print(name)
 atuple = ("I", "Love", "Icecream")
 alist = list(atuple)
 print(alist)
+
+date_day = '1/1/2001'
+splitdate = date_day.split('/')
+print(splitdate)
+
+name = "r/i/d/w/an"
+splitname = name.split("/")
+print(splitname)
