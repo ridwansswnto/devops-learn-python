@@ -39,6 +39,7 @@ else:
 
 print("=" * 8)
 
+#checking value is not in a list
 vowel_set = {'a', 'e', 'i', 'o', 'u'}
 letter = str(input("masukkan huruf: "))
 display = letter in vowel_set
