@@ -15,6 +15,6 @@ date_day = '1/1/2001'
 splitdate = date_day.split('/')
 print(splitdate)
 
-name = "r/i/d/w/an"
+name = "r/i/d/w/a/n"
 splitname = name.split("/")
 print(splitname)
