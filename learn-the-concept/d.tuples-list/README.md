@@ -8,10 +8,13 @@ Tuples are `immutable`, when you asssign element (only one) to a tuple, they're 
 - Faster than Lists
 - Sequence type
 
-Lists are `mutable`, meaning you can insert and delete elements.
+Lists are `mutable`, meaning you can insert and delete elements. 
 
 - General purpose
 - Most widely used data structure
 - Grow and shrink size as neede
 - Sequence type
 - Sortable 
+
+![List](/z.images/list.png)
+Format: ![Alt Text](url)
