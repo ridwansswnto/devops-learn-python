@@ -8,6 +8,9 @@ Tuples are `immutable`, when you asssign element (only one) to a tuple, they're 
 - Faster than Lists
 - Sequence type
 
+![List](https://github.com/ridwansswnto/devops-learn-python/blob/master/learn-the-concept/z.images/tuple.png)
+
+
 Lists are `mutable`, meaning you can insert and delete elements. 
 
 - General purpose
