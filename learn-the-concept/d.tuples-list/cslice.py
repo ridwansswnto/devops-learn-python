@@ -7,7 +7,7 @@ print(animals[::-2])
 print("=" * 5)
 
 # Add data with append
-add_ani1 = animals.append("elepthant")
+add_ani1 = animals.append("elephant")
 print("Append elephant to list")
 print(animals)
 
@@ -44,4 +44,18 @@ print("animals after popped")
 print(animals)
 print("popped to var")
 print(poped_animal)
+
+print("=" * 5)
+
+#Remove by value
+print("Before remove value")
+print(animals)
+animals.remove('elephant')
+print(animals)
+
+print("=" * 5)
+
+dangeroues = 'tiger'
+animals.remove(dangeroues)
+print(f"{dangeroues} is to dangerous to owned in my house")
 
