@@ -16,5 +16,5 @@ Lists are `mutable`, meaning you can insert and delete elements.
 - Sequence type
 - Sortable 
 
-![List](/z.images/list.png)
+![List](https://github.com/ridwansswnto/devops-learn-python/blob/master/learn-the-concept/z.images/list.png)
 Format: ![Alt Text](url)
